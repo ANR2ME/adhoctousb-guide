@@ -1,0 +1,2 @@
+ms0:/seplugins/AdhocToUSB.prx 1
+ms0:/seplugins/xlinkaid.prx 1
