@@ -67,6 +67,6 @@ At this point I highly advise that you open up the Admin PowerShell and type `bc
 
 # Part D: Profit
 
-To go online anytime from now, Open Xlink Kai and go to the associated game lobby for the game, afterwards hop into the network section of the game while connected to your PC and then start the Bridge.exe in the AdhocToUSB folder, *(you may want to make a shortcut to this file)* and finally select the Loopback Adapter, if it shows some FFFFFFF error just restart it (not including the timeout errors,  thats just lag)
+To go online from now, Open Xlink Kai then go to the associated game lobby for your game, afterwards on PSP activate Adhoc multiplayer while connected to your PC then start the Bridge.exe in the AdhocToUSB folder, *(you may want to make a shortcut to this file)* now finally select the Loopback Adapter, if it shows the FFFFFFF error just restart it, but it usually doesn't affect connectivity. If you get any timeout error notice thats simply lag and can be ignored.
 
-have fun using your PSP online.
+Have fun using your PSP Online.
