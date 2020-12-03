@@ -13,7 +13,7 @@ AdhocToUSB Guide for Windows 10 by plus#3034 r2
 # Part A: Setting Up the PC
 
 ## Step 1 - Microsoft Loopback Adapter
-First we'll install the Loopback Adapter used by the Bridge.
+First we'll install the Loopback Adapter used by adhoctousb's Bridge program.
 
   1. Press the Windows button and R at the same time or search for `run` in the start menu in this menu type `hdwwiz`. 
  
