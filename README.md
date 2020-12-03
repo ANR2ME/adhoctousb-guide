@@ -59,7 +59,7 @@ or
 
 ## Step 5 - Installing the PSP Type B Drivers
 
-On your PSP connect it to your computer via USB and start a game with Adhoc multiplayer and activate it. *(when you see the wireless light come on you're good)*
+Connect the PSP to your computer via USB, start a game with Adhoc multiplayer and activate it. *(when you see the wireless light come on you're good)*
 
 Back on PC, open up the software package again and open the folders LibUSB/bin/, then run `inf-wizard.exe` as administrator, if you have your PSP in game you should see `PSP Type B`, click on that and then click next until it asks you to choose a location. Select the Type B folder provided in the software package, click save, then Install Now, it should install successfully.
 
