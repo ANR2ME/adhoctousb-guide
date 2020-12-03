@@ -1,5 +1,5 @@
-AdhocToUSB Guide for Windows 10 by plus#3034 r2
-===============================================
+AdhocToUSB Guide for Windows 10 by plus#3034
+============================================
 
 # Requirements
 
