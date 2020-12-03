@@ -61,7 +61,7 @@ or
 
 Connect the PSP to your computer via USB, start a game with Adhoc multiplayer and activate it. *(when you see the wireless light come on you're good)*
 
-Back on PC, open up the software package again and open the folders LibUSB/bin/, then run `inf-wizard.exe` as administrator, if you have your PSP in game you should see `PSP Type B`, click on that and then click next until it asks you to choose a location. Select the Type B folder provided in the software package, click save, then Install Now, it should install successfully.
+Back on PC, open the software package again and navigate to LibUSB/bin/, then run `inf-wizard.exe` as administrator, if you have your PSP in game you should see `PSP Type B`, click on that and then click next until it asks you to choose a location. Select the Type B folder provided in the software package, click save, then Install Now, it should install successfully.
 
 At this point I highly advise that you open up the Admin PowerShell and type `bcdedit /set testsigning off` and re-enable Secure Boot if you had to disable it, the PSP drivers will still work.
 
