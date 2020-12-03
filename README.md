@@ -10,13 +10,7 @@ AdhocToUSB Guide for Windows 10 by plus#3034 r2
 - 6.60/6.61 PRO-C2 (Recommended) or 6.60/6.61 ME CFW
 - Administrator privileges
 
-# Preface
-
-**DISCLAIMER:** This guide is a work in progress and may be obsolete on the release of CrunchBite's guide coming soon from the time of writing this.  
-
-Also i'd advide that you copy and paste the contents of this file into a online Markdown Viewer like [Markdown Live Preview](https://markdownlivepreview.com/).
-
-# Part A: Setting Up the PC (Part 1)
+# Part A: Setting Up the PC
 
 ## Step 1 - Microsoft Loopback Adapter
 First we'll install the Loopback Adapter used by the Bridge.
@@ -57,7 +51,7 @@ or
 
 *Note: Only one plugin can use the USB port at a time, do not try to use this and for example RemoteJoyLite at the same time.*
 
-# Part C: Setting Up the PC (Part 2)
+# Part C: Setting Up the PC
 
 ## Step 4 - Disabling Driver Signature Verification
 
