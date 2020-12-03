@@ -7,7 +7,7 @@ AdhocToUSB Guide for Windows 10 by plus#3034 r2
 - Memory Stick PRO Duo
 - USB A to Mini USB Cable
 - Xlink Kai [[here](http://www.teamxlink.co.uk/)]
-- 6.60 PRO-C2 (Recommended) or 6.60 ME CFW
+- 6.60/6.61 PRO-C2 (Recommended) or 6.60/6.61 ME CFW
 - Administrator privileges
 
 # Preface
