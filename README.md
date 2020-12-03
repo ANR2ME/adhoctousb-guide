@@ -39,7 +39,7 @@ To test this check the Metrics tabs at the top of the Web UI, and look for Ether
 
 Connect your PSP to the computer. *(If you have CFW im assuming you know how to put it into USB Mode.)*
 
-In the included software bundle open the AdhocToUSB folder and transfer `AdhocToUSB.prx` to the `seplugins` folder, if it doesnt exist create it at the root of your PSP directory *(not in any subfolders)*  
+In the included software bundle open the AdhocToUSB folder and transfer `AdhocToUSB.prx` to the `seplugins` folder, if it doesnt exist create it at the root of your PSP directory *(not in any folders)*  
 
 Afterwards open `GAME.txt` in the `seplugins` folder, once again if it doesnt exist create it.  
 
