@@ -51,7 +51,7 @@ or
 
 *Note: Only one plugin can use the USB port at a time, do not try to use this and for example RemoteJoyLite at the same time.*
 
-# Part C: Setting Up the PC
+# Part C: Setting Up the PC (Continued)
 
 ## Step 4 - Disabling Driver Signature Verification
 
