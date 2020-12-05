@@ -47,7 +47,7 @@ Now type:
 
 `ms0:/seplugins/AdhocToUSB.prx 1` (for PSP 1000/2000/3000)  
 or  
-`ef0:/seplugins/AdhocToUSB.prx 1` (for PSP GO (E1000))
+`ef0:/seplugins/AdhocToUSB.prx 1` (for PSP GO (N1000))
 
 *Note: Only one plugin can use the USB port at a time, do not try to use this and for example RemoteJoyLite at the same time.*
 
