@@ -5,9 +5,10 @@ AdhocToUSB Guide for Windows 7/8/10 by plus#3034
 
 - Any PSP model *except* the Street (E1000)
 - Memory Stick PRO Duo or compatible adapter
-- USB A to Mini B Cable
-- Xlink Kai [[here](http://www.teamxlink.co.uk/)]
 - 6.60/6.61 ME (Recommended) or 6.60/6.61 PRO-C2 CFW
+- USB A to Mini B Cable
+- Xlink Kai [[here](https://www.teamxlink.co.uk/)]
+- Zadig [[here](https://https://zadig.akeo.ie/)]
 - Administrator privileges
 
 # Part A: Setting Up the PC
@@ -53,19 +54,13 @@ or
 
 *Note: Only one plugin can use the USB port at a time, do not try to use this and for example RemoteJoyLite at the same time.*
 
-# Part C: Setting Up the PC (Continued)
+# Part C: Setting Up the Drivers
 
-## Step 4 - Disabling Driver Signature Verification
+## Step 4 - Installing the PSP Type B Drivers
 
-[Use this guide](https://www.howtogeek.com/167723/how-to-disable-driver-signature-verification-on-64-bit-windows-8.1-so-that-you-can-install-unsigned-drivers/)
+Connect the PSP to your computer via USB, start a game with AdhocToUSB enabled.
 
-## Step 5 - Installing the PSP Type B Drivers
-
-Connect the PSP to your computer via USB, start a game with Adhoc multiplayer and activate it. *(when you see the wireless light come on you're good)*
-
-Back on PC, open the software package again and navigate to LibUSB/bin/, then run `inf-wizard.exe` as administrator, if you have your PSP in game you should see `PSP Type B`, click on that and then click next until it asks you to choose a location. Select the Type B folder provided in the software package, click save, then Install Now, it should install successfully.
-
-At this point I highly advise that you open up the Admin PowerShell and type `bcdedit /set testsigning off` and re-enable Secure Boot if you had to disable it, the PSP drivers will still work.
+Back on PC, open Zadig, if you have your PSP in game you should see `PSP Type B`, if not go to Options on the top bar and select `List All Devices`, on the right click the small arrows until you see `libusb-win32`, then Install Driver, it should install successfully.
 
 # Part D: Profit
 
