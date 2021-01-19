@@ -1,5 +1,5 @@
-AdhocToUSB Guide for Windows 7/8/10 by plus#3034
-================================================
+AdhocToUSB Guide for Windows 7/8/10
+====================================
 
 # Requirements
 
