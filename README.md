@@ -9,13 +9,13 @@ AdhocToUSB Guide for Windows 7/8/10
 - USB A to Mini B Cable
 - Xlink Kai [[here](https://www.teamxlink.co.uk/)]
 - Zadig [[here](https://https://zadig.akeo.ie/)]
-- CWUSB [[here]()]
+- CWUSB [[here](https://github.com/codedwrench/CWUSB/releases)]
 - Administrator privileges
 
 # Part A: Setting Up the PC
 
 ## Step 1 - Configuring Xlink Kai
-Check the following installation guides on how to install XLink Kai: [[here]](https://www.teamxlink.co.uk/wiki/Main_Page)] pick the one that corresponds to your operating system.
+Check the following installation guides on how to install XLink Kai: [[here](https://www.teamxlink.co.uk/wiki/Main_Page)], pick the one that corresponds to your operating system.
 
 # Part B: Setting Up the PSP
 
