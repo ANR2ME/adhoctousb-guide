@@ -8,7 +8,7 @@ AdhocToUSB Guide for Windows 7/8/10
 - 6.60/6.61 ME (Recommended) or 6.60/6.61 PRO-C2 CFW
 - USB A to Mini B Cable
 - Xlink Kai [[here](https://www.teamxlink.co.uk/)]
-- Zadig [[here](https://https://zadig.akeo.ie/)]
+- Zadig [[here](https://zadig.akeo.ie/)]
 - CWUSB [[here](https://github.com/codedwrench/CWUSB/releases)]
 - Administrator privileges
 
