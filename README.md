@@ -59,3 +59,17 @@ To go online from now
 3. Start the cwusb.exe you downloaded before *(you may want to make a shortcut to this file)* 
 
 Have fun using your PSP Online.
+
+
+## Troubleshooting
+- I'm getting an error about: MSVCP140.dll, VCRUNTIME140.dll or VCRUNTIME140_1.dll
+   - Install [Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017 and 2019](https://aka.ms/vs/16/release/vc_redist.x64.exe)
+   
+- I'm getting an error about: "Operation not supported or unimplemented on this platform"
+   - The libUSBK driver is not installed correctly, make sure the plugin is enabled and a game is running when installing the driver using Zadig
+   
+- Receivebuffer got to over 50! or Sendbuffer got to over 50! ?
+   - This is a normal warning, there could be some added latency while playing
+ 
+- Could set configuration: Entity not found
+   - This usually happens when you installed the wrong driver, reinstall the driver
